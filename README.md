@@ -1,0 +1,2 @@
+# oksurukTespit
+Oksürük tespit uygulaması
